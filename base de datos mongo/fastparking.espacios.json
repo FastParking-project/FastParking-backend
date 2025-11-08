@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "690edb10f2e7e94618ad6727"
+  },
+  "numero": "A1",
+  "tipo": "estandar",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "690edb1bf2e7e94618ad6729"
+  },
+  "numero": "A2",
+  "tipo": "accesible",
+  "estado": "disponible"
+},
+{
+  "_id": {
+    "$oid": "690edb27f2e7e94618ad672b"
+  },
+  "numero": "B1",
+  "tipo": "estandar",
+  "estado": "disponible"
+}]

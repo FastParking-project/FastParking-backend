@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "690edb41f2e7e94618ad6731"
+  },
+  "id_usuario": "507f1f77bcf86cd799439011",
+  "token_sesion": "qr_token_12345",
+  "placa": {
+    "numero_placa": "ABC123",
+    "modelo_auto": "Toyota Corolla"
+  },
+  "fecha_inicio": "2023-10-01T10:00:00Z",
+  "fecha_fin": null
+}]

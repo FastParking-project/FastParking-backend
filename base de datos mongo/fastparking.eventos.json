@@ -1,0 +1,9 @@
+[{
+  "_id": {
+    "$oid": "690edb50f2e7e94618ad6734"
+  },
+  "id_sesion": "507f1f77bcf86cd799439012",
+  "tipo": "entrada",
+  "timestamp": "2023-10-01T10:00:00Z",
+  "id_espacio_asignado": "507f1f77bcf86cd799439013"
+}]

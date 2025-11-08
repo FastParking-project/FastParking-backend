@@ -1,0 +1,10 @@
+[{
+  "_id": {
+    "$oid": "690edb01f2e7e94618ad6724"
+  },
+  "nombre": "Juan Pérez",
+  "email": "juan@email.com",
+  "contraseña": "hashedpass",
+  "tipo": "conductor",
+  "fecha_registro": "2023-10-01T00:00:00Z"
+}]
